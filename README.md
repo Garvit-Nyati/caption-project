@@ -1,3 +1,5 @@
+Developed a video caption generator with Next.js, React, Tailwind CSS, and WebAssembly.
+Utilized AWS S3 for storage and integrated AWS Transcribe for transcription services. 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
